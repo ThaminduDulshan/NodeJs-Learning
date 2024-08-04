@@ -1,0 +1,2 @@
+my result is first file
+ and second file
